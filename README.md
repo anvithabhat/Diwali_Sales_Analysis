@@ -30,6 +30,8 @@ This project performs exploratory data analysis (EDA) on Diwali sales data to un
 ## 📁 Files Included
 - Diwali_Sales_Analysis.ipynb
 - Diwali Sales Data.csv
+- Buyers accoring to age group.png
+- Sales by occupation.png
 
 ## 🧠 Conclusion
 The analysis provides insights into customer behavior, helping businesses improve marketing strategies and sales planning during festive seasons.
